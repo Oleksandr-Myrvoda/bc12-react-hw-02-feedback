@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bc12-react-hw-02-feedback/static/css/main.981d76fe.chunk.css",
+    "main.js": "/bc12-react-hw-02-feedback/static/js/main.6765452f.chunk.js",
+    "main.js.map": "/bc12-react-hw-02-feedback/static/js/main.6765452f.chunk.js.map",
+    "runtime-main.js": "/bc12-react-hw-02-feedback/static/js/runtime-main.63243d77.js",
+    "runtime-main.js.map": "/bc12-react-hw-02-feedback/static/js/runtime-main.63243d77.js.map",
+    "static/js/2.06681dc2.chunk.js": "/bc12-react-hw-02-feedback/static/js/2.06681dc2.chunk.js",
+    "static/js/2.06681dc2.chunk.js.map": "/bc12-react-hw-02-feedback/static/js/2.06681dc2.chunk.js.map",
+    "index.html": "/bc12-react-hw-02-feedback/index.html",
+    "static/css/main.981d76fe.chunk.css.map": "/bc12-react-hw-02-feedback/static/css/main.981d76fe.chunk.css.map",
+    "static/js/2.06681dc2.chunk.js.LICENSE.txt": "/bc12-react-hw-02-feedback/static/js/2.06681dc2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63243d77.js",
+    "static/js/2.06681dc2.chunk.js",
+    "static/css/main.981d76fe.chunk.css",
+    "static/js/main.6765452f.chunk.js"
+  ]
+}
